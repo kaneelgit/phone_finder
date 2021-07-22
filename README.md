@@ -32,4 +32,6 @@ train_phone_finder.py - This is the train_phone_finder file that trains the mode
 
 
 trained_prior.npy - This is the trained model using the images in the find_phone folder. If you run the training script
-			the model will over write this file. 	 
+			the model will over write this file. 	
+
+<u> Few images from the notebook </u>
