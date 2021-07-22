@@ -38,10 +38,18 @@ trained_prior.npy - This is the trained model using the images in the find_phone
 
 ## Few images from the notebook
 
-A detected and not detected image fromt the Bayesian model
+**A detected and not detected image fromt the Bayesian model
 
 ![download](https://user-images.githubusercontent.com/85404022/126579617-50d568ce-168a-4db9-bb38-251456bc0746.png)
 
 ![download](https://user-images.githubusercontent.com/85404022/126579780-0a3b824e-626c-448a-a7af-5995b4991f2b.png)
+
+**A figure from the image segementation. The original image, the created mask and the predicted mask by the Unet algorithm is shown.
+
+Note that the mask was created manually by masking about the center of the phone.
+
+![download (2)](https://user-images.githubusercontent.com/85404022/126580232-0db14c8a-6db6-4c8a-b1eb-b471852317aa.png)
+
+![download (3)](https://user-images.githubusercontent.com/85404022/126580240-6a37cbb7-ccf7-4931-af40-69d59b30ec68.png)
 
 
