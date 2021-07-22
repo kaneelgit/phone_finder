@@ -1,7 +1,7 @@
 # phone_finder
-Repository contains a dataset of 100+ images that has a phone. There are several scripts that are used to localize the phone in the picture.
+Repository contains a dataset of 100+ images that has a phone. There are several scripts that are used to localize the phone in the picture. This was a coding challenge I was given in one of my job interviews.
 
-## Folder & files info
+## Folder & file info
 *********
 
 find_phone - the folder containing all the training images
@@ -22,7 +22,7 @@ find_phone.py - The .py file to test an image. Please note that in the command p
 
 Deep Learning.ipynb - A jupyter notebook that I have tested several deep learning
 		methods to localize the phone. The algorithms used are convolutional neural network, a residual network and a pretrained
-    algorithm (mobile net v2). 
+    		algorithm (mobile net v2). 
 
 Image Segmentation - A jupyter notebook where I have used Unet algorithm to segment the phone from the image. The masks were created
 manually, so the segmentation is not 100% clear. However, given the mask the image segmentation algorithm is doing a good job. 
@@ -34,4 +34,7 @@ train_phone_finder.py - This is the train_phone_finder file that trains the mode
 trained_prior.npy - This is the trained model using the images in the find_phone folder. If you run the training script
 			the model will over write this file. 	
 
-<u> Few images from the notebook </u>
+## Few images from the notebook
+
+![download](https://user-images.githubusercontent.com/85404022/126579617-50d568ce-168a-4db9-bb38-251456bc0746.png)
+
