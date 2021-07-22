@@ -36,5 +36,10 @@ trained_prior.npy - This is the trained model using the images in the find_phone
 
 ## Few images from the notebook
 
+A detected and not detected image fromt he bayesian model
+
 ![download](https://user-images.githubusercontent.com/85404022/126579617-50d568ce-168a-4db9-bb38-251456bc0746.png)
+
+![download](https://user-images.githubusercontent.com/85404022/126579780-0a3b824e-626c-448a-a7af-5995b4991f2b.png)
+
 
