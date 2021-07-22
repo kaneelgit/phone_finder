@@ -1,5 +1,7 @@
 # phone_finder
-Repository contains a dataset of 100+ images that has a phone. There are several scripts that are used to localize the phone in the picture. This was a coding challenge I was given in one of my job interviews.
+Repository contains a dataset of 100+ images that has a phone. The goal was to use any algorithm to localize the phone in the images. There are several scripts that are used to localize the phone in the picture. This was a coding challenge I was given in one of my job interviews.
+
+![download (1)](https://user-images.githubusercontent.com/85404022/126579907-db8c15ea-49c5-43fd-a7fa-ceafff4596d3.png)
 
 ## Folder & file info
 *********
@@ -36,7 +38,7 @@ trained_prior.npy - This is the trained model using the images in the find_phone
 
 ## Few images from the notebook
 
-A detected and not detected image fromt he bayesian model
+A detected and not detected image fromt the Bayesian model
 
 ![download](https://user-images.githubusercontent.com/85404022/126579617-50d568ce-168a-4db9-bb38-251456bc0746.png)
 
